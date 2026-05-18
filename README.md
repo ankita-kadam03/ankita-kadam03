@@ -7,7 +7,6 @@
 
 <br/>
 
-<!-- Profile Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
 
 </div>
@@ -16,21 +15,13 @@
 
 ## 🧠 About Me
 
-```python
-class Ankita:
-    def __init__(self):
-        self.name        = "Ankita Kadam"
-        self.role        = "AI/ML Engineer & Researcher"
-        self.passions    = ["LLMs", "RAG Systems", "Generative AI", "Machine Learning"]
-        self.mission     = "Building intelligent systems that understand, generate & reason"
-        self.status      = "Always learning, always building 🚀"
+🙋‍♀️ **Ankita Kadam** — AI/ML Engineer & Researcher
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together 🤝")
+🤖 Passionate about **LLMs**, **RAG Systems**, **Generative AI**, and **Machine Learning**
 
-me = Ankita()
-me.say_hi()
-```
+🚀 Mission: *Building intelligent systems that understand, generate & reason*
+
+⚡ Always learning, always building — let's create something amazing together!
 
 ---
 
@@ -74,19 +65,6 @@ me.say_hi()
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-> 💡 *Projects coming soon — currently building in stealth mode!*
-
-| 🔭 Project | 💡 About | 🛠️ Stack |
-|---|---|---|
-| **RAG Pipeline Framework** | Modular retrieval-augmented generation engine with multi-source ingestion | LangChain, FAISS, OpenAI, FastAPI |
-| **LLM Fine-Tuning Suite** | Parameter-efficient fine-tuning (LoRA/QLoRA) for domain-specific LLMs | HuggingFace, PyTorch, PEFT |
-| **Agentic AI Assistant** | Autonomous agent with tool-use, memory, and planning capabilities | LangGraph, OpenAI, Python |
-| **Semantic Search Engine** | Contextual search over large corpora using dense embeddings | Pinecone, SentenceTransformers, FastAPI |
 
 ---
 
