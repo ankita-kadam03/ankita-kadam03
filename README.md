@@ -47,11 +47,39 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+### 🧠 Agentic AI & Orchestration
+![LangGraph](https://img.shields.io/badge/LangGraph-7F77DD?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-1D9E75?style=for-the-badge&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-D85A30?style=for-the-badge&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-378ADD?style=for-the-badge&logoColor=white)
+![Haystack](https://img.shields.io/badge/Haystack-888780?style=for-the-badge&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_SDK-412991?style=for-the-badge&logoColor=white)
+![Instructor](https://img.shields.io/badge/Instructor-639922?style=for-the-badge&logoColor=white)
+
 ### 🗄️ Vector DBs & RAG
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6C37?style=for-the-badge&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0064A5?style=for-the-badge&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00D2FF?style=for-the-badge&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-7F77DD?style=for-the-badge&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-1D9E75?style=for-the-badge&logoColor=white)
+
+### ✍️ Prompt Engineering & Evaluation
+![DSPy](https://img.shields.io/badge/DSPy-D85A30?style=for-the-badge&logoColor=white)
+![PromptFlow](https://img.shields.io/badge/PromptFlow-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-378ADD?style=for-the-badge&logoColor=white)
+![TruLens](https://img.shields.io/badge/TruLens-1D9E75?style=for-the-badge&logoColor=white)
+![DeepEval](https://img.shields.io/badge/DeepEval-BA7517?style=for-the-badge&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+
+### 🔧 Fine-tuning & Training
+![PEFT](https://img.shields.io/badge/PEFT_LoRA-EE4C2C?style=for-the-badge&logoColor=white)
+![QLoRA](https://img.shields.io/badge/QLoRA-FF6F00?style=for-the-badge&logoColor=white)
+![RLHF](https://img.shields.io/badge/RLHF_DPO-FFD21E?style=for-the-badge&logoColor=black)
+![Axolotl](https://img.shields.io/badge/Axolotl-7F77DD?style=for-the-badge&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-1D9E75?style=for-the-badge&logoColor=white)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-378ADD?style=for-the-badge&logoColor=white)
+![Flash Attention](https://img.shields.io/badge/Flash_Attention-888780?style=for-the-badge&logoColor=white)
 
 ### ☁️ Cloud & MLOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -59,12 +87,18 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-BA7517?style=for-the-badge&logoColor=white)
+![BentoML](https://img.shields.io/badge/BentoML-1D9E75?style=for-the-badge&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-D85A30?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🛢️ Data
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 
 ---
 
